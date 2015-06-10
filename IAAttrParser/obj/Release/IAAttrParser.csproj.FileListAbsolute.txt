@@ -1,0 +1,3 @@
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\bin\Release\IAAttrParser.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\bin\Release\IAAttrParser.exe
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\obj\Release\IAAttrParser.exe

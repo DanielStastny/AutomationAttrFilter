@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\bin\Debug\IAAttrParser.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\bin\Debug\IAAttrParser.exe
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\bin\Debug\IAAttrParser.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\obj\Debug\IAAttrParser.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\obj\Debug\IAAttrParser.exe
+c:\users\daniel\documents\visual studio 2013\Projects\IAAttrParser\IAAttrParser\obj\Debug\IAAttrParser.pdb
